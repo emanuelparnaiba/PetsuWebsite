@@ -414,4 +414,22 @@ footer a {
     left: 4.5em;
     top: 2em;
   }
+  .galery-section {
+    text-align: center;
+    background: #018f01;
+    height: 12em;
+    padding: 2em;
+  }
+  .galery-section img {
+    width: 12em;
+    height: 12em;
+    vertical-align: middle;
+  }
+  .galery-section img:hover {
+    width: 13.5em;
+    height: 13.5em;
+  }
+  .galery-section img:hover #galery {
+    padding: 1.2em 0 1.7em 0;
+  }
 }/*# sourceMappingURL=main.css.map */
